@@ -52,9 +52,9 @@ export default {
                 }
             ],
 
-            successURL: 'http://localhost:8080/payment/success',
+            successURL: 'https://akatsuki-gamez.netlify.app/payment/success',
 
-            cancelURL: 'http://localhost:8080/payment/failed'
+            cancelURL: 'https://akatsuki-gamez.netlify.app/payment/failed'
         }
     },
 
