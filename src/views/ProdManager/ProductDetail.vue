@@ -11,7 +11,7 @@
                 <h3><strong>{{ product.name }}</strong></h3>
                 <h4>{{ category.categoryName }}</h4>
                 <p>{{ product.description }}</p>
-                <star-rating :star-size="40" class="p-0 col-4"></star-rating>
+                <star-rating :star-size="40" class="p-0 col-4">Rate Seller here</star-rating>
 
                 <div class="d-flex justify-content-around">
                     <div class="input-group col-md-5 p-1">
